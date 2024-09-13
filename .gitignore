@@ -1,0 +1,42 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files
+datasets/*.csv
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+
+# Python environment files
+*.env
+
+# Dependency and build files
+build/
+dist/
+*.egg-info/
+*.tmp
+
+# Configuration files
+config.yaml
