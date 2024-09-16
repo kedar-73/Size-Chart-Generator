@@ -36,3 +36,4 @@ To install and run the project, follow these steps:
 2. Clusters data using KMeans based on selected features (e.g., height, weight, bust).
 3. Generates size charts for categories (tops, bottoms, dresses) based on clusters.
 
+## Made by-Kedar Singh
