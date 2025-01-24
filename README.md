@@ -31,6 +31,9 @@ To install and run the project, follow these steps:
 - `datasets/body_measurements_dataset.csv`: Main dataset with body measurements.
 - `datasets/generated_body_measurements_dataset.csv`: Supplementary dataset for analysis.
 
+## Kaggle Link
+   https://www.kaggle.com/code/kedar73/flipkart-grid-6-0
+
 ## How It Works
 1. Preprocesses the data (converts height to inches, fills missing values).
 2. Clusters data using KMeans based on selected features (e.g., height, weight, bust).
